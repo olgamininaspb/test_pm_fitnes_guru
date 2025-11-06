@@ -1,1 +1,0 @@
-# test_pm_fitnes_guru
